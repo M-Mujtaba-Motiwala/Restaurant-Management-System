@@ -256,7 +256,7 @@ Based on the project report, planned improvements include:
 
 ## 👥 Authors
 
-> *(Add your names and contact information here)*
+> *Muhammad Mujtaba*
 
 ---
 
